@@ -1,0 +1,10 @@
+.hallo{
+    background-image: linear-gradient(to right, red, orange, rgb(255, 0, 0), rgb(105, 138, 105), blue, indigo, violet);    width: 100%;
+    height:100vh;
+}
+.hallo1{
+    position: absolute;
+    width: 95px;
+    height:35px;
+    left: 550px;
+}
